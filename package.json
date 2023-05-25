@@ -25,6 +25,7 @@
     "zod": "^3.21.4"
   },
   "devDependencies": {
+    "@prisma/client": "^4.14.1",
     "@rocketseat/eslint-config": "^1.2.0"
   }
 }
